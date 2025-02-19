@@ -24,15 +24,9 @@ This project involves creating a dashboard for analyzing key indicators of **piz
 7. **Bottom 5 Worst Sellers by Total Pizzas Sold**: A bar chart showcasing the bottom 5 worst-selling pizzas based on the total number of pizzas sold.
 
 ## Software Used
-- **Power BI**
 - **Excel**
 
-## File Structure
 
-- `/Raw_Data/` - Folder containing original datasets.
-- `/Processed_Data/` - Folder containing the cleaned and structured dataset.
-- `/PowerBI_Dashboard/` - Power BI project file.
-- `README.md` - Documentation for project understanding.
   
 ## Contact
 
